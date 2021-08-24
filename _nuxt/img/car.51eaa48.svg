@@ -3,11 +3,11 @@
 <circle cx="6.70454" cy="14.9457" r="3.16938" fill="white" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="26.3569" cy="14.9457" r="3.16938" fill="white" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M11.457 1.31738L16.528 14.6288" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M11.1445 13.0449H20.9696" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.1445 12.0449H20.9696" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M7.97266 8.60742H9.87428" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M16.2148 8.60742H18.1165" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M28.8945 13.0449H33.0147" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M1.63672 13.0449H4.17222" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 12L33 12" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1 12L5 12" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M4.48828 1.95117L6.38991 6.07136L26.9909 6.3883" stroke="#332105" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M1 8.29102H2.99906C3.55962 8.29102 3.94292 8.85717 3.73473 9.37763V9.37763C3.61441 9.67845 3.32305 9.87571 2.99906 9.87571H1" stroke="#332105"/>
 </svg>
